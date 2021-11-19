@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "WGDC Is Here!"
+image: "https://assets.westdalegames.com/img/wgdc2.png"
 date: 2021-11-18 21:15:00 -0500
 categories: General
 author: Pedram
