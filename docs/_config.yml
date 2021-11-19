@@ -22,8 +22,8 @@ title: Westdale Game Development Club
 email: contact@westdalegames.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Westdale Game Development Club is a student-run club at Westdale Secondary School. We are a group of students who are passionate about game development and love to create. We are always looking for new members to join our club and we welcome anyone who is interested in learning more about game development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://westdalegames.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
