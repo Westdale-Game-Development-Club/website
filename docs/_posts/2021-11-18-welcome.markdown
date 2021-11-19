@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to WGDC!"
+image: "assets/img/wgdc2.png"
+author: The WGDC Team
+date:   2021-11-18 19:54:41 -0500
+categories: update
+---
+Welcome to the Westdale Software Development Club
