@@ -12,3 +12,4 @@ Created by Bootstrap Studio, Hosted by Github.
  
  -  - [So-it-begins.html](https://westdalegames.com/general/2021/11/19/So-It-Begins.html)
  -  - [Week-1.html](https://westdalegames.com/general/2021/11/19/Week-1.html)
+
